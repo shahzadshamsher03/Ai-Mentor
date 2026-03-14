@@ -458,4 +458,5 @@ export {
   updateUserSettings, // stub
   updateUserProfile, // stub
   removePurchasedCourse,
+  changePassword
 };
